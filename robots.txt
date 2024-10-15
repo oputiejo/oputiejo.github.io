@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: /login
+Sitemap: https://oputiejo.github.io/BQm/sitemap_index.txt.gz
+Sitemap: https://oputiejo.github.io/ELF/sitemap_index.txt.gz
+Sitemap: https://oputiejo.github.io/aWd/sitemap_index.txt.gz
+Sitemap: https://oputiejo.github.io/dUI/sitemap_index.txt.gz
+Sitemap: https://oputiejo.github.io/jwk/sitemap_index.txt.gz
+Sitemap: https://oputiejo.github.io/sitemap/sitemap_index.txt.gz
